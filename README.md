@@ -31,7 +31,7 @@ This repository contains an interactive Excel dashboard that analyzes trends of 
 ## Files in this Repository
 - `Bike Analysis Project.xlsx`: Interactive Excel dashboard.
 - `Bike Dataset.xlsx`: Raw Dataset.
-- `Bike_Analysis_Screenshot.png`:  Dashboard image.
+- `Bike_Analysis_Screenshot.jpg`:  Dashboard image.
 
 ## How to Use
 - Download the `Bike Analysis Project.xlsx` file.
